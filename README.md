@@ -194,11 +194,11 @@ ravish = {
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Searching, Start Reading: Building a Hybrid Macro-to-Micro RAG Pipeline on BigQuery](https://medium.com/google-cloud/stop-searching-start-reading-building-a-hybrid-macro-to-micro-rag-pipeline-on-bigquery-e636aff6687e?source=rss-539e90d8d864------2)
 - [BigQuery Just Gave Your Data a Voice: 6 Conversational Analytics Updates That Change Everything](https://medium.com/google-cloud/bigquery-just-gave-your-data-a-voice-6-conversational-analytics-updates-that-change-everything-a49db2e6614f?source=rss-539e90d8d864------2)
 - [One SQL Query, Three Continents: BigQuery’s Global Queries Just Changed the Game](https://medium.com/google-cloud/one-sql-query-three-continents-bigquerys-global-queries-just-changed-the-game-b4b79d42f205?source=rss-539e90d8d864------2)
 - [SQL Just Got a Brain: Introducing BigQuery’s Native AI Functions](https://medium.com/google-cloud/sql-just-got-a-brain-introducing-bigquerys-native-ai-functions-7847778a1a8e?source=rss-539e90d8d864------2)
 - [How I Built a Chrome Extension to Tutor My Child &lpar;With Zero Coding Experience!&rpar;](https://medium.com/google-cloud/how-i-built-a-chrome-extension-to-tutor-my-child-with-zero-coding-experience-d4617c3f969d?source=rss-539e90d8d864------2)
-- [Pattern Matching with SQL: Real-Time Anomaly Detection Using BigQuery’s MATCH_RECOGNIZE](https://medium.com/google-cloud/pattern-matching-with-sql-real-time-anomaly-detection-using-bigquerys-match-recognize-c35124bf35c1?source=rss-539e90d8d864------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
