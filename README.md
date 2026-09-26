@@ -89,6 +89,20 @@ ravish = {
 ![Kubernetes](https://img.shields.io/badge/GKE-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**📱 Mobile & Agentic Development**
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-open%20source-2EA043?style=flat-square&logo=github&logoColor=white)](https://github.com/gargravish/agent-skills)
+
+> 🧠 **[agent-skills](https://github.com/gargravish/agent-skills)**: my open-source, field-tested skills for building and shipping iOS/Android apps with AI coding agents, distilled from taking a real app through App Store & Google Play review.
+
 ---
 
 ## 📌 Featured Projects
